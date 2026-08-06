@@ -1,0 +1,6 @@
+{
+  "name": "Digital Tasting Menu",
+  "description": "An interactive Father's Day tasting menu and companion guide with a step-by-step cooking class, custom dietary tags, and dad jokes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
